@@ -6,7 +6,7 @@ def print_chessboard(size):
             
             else:
                 print(" ", end="")
-        print()  # Nový riadok po každom rriadku šachovnice
+        print()  # Nový riadok po každom riadku šachovnice
 
 # Velikosť šachového pole (počet riadkov a stlpcou)
 velikost = 8
